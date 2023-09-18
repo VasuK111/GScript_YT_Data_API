@@ -1,6 +1,6 @@
 # GScript_YT_Data_API
 
-Data Analytics for Youtube Channel can be very time consuming. I was suffering from the same problem few months back during my internship at Vedantu(India). During my time there, I came across a tool called Youtube Data API using which you can scrape Youtube Data in a matter of minutes. The API call worked on the Google Apps Script editor which was gs code (majorly javascript in reality). This repository shares my code for searching vidoes on youtube for a given genre & also extracting it's statistics( view count & likes/dislikes count majorly). 
+Data Analytics for Youtube Channel can be very time consuming. I was suffering from the same problem few months back while trying my hands on automating Data Analytics at Covalent in the Data Alchemist BotCamp. During my time there, I came across a tool called Youtube Data API using which you can scrape Youtube Data in a matter of minutes. The API call worked on the Google Apps Script editor which was gs code (majorly javascript in reality). This repository shares my code for searching vidoes on youtube for a given genre & also extracting it's statistics( view count & likes/dislikes count majorly). 
 
 # Setup Instructions :
 * [Open Google Apps Script Platform](https://script.google.com/home/start)
